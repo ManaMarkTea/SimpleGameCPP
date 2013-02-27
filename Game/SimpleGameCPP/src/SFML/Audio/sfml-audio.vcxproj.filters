@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\ALCheck.cpp" />
+    <ClCompile Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\AudioDevice.cpp" />
+    <ClCompile Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\Listener.cpp" />
+    <ClCompile Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\Music.cpp" />
+    <ClCompile Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\Sound.cpp" />
+    <ClCompile Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\SoundBuffer.cpp" />
+    <ClCompile Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\SoundBufferRecorder.cpp" />
+    <ClCompile Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\SoundFile.cpp" />
+    <ClCompile Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\SoundRecorder.cpp" />
+    <ClCompile Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\SoundSource.cpp" />
+    <ClCompile Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\SoundStream.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\ALCheck.hpp" />
+    <ClInclude Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\AudioDevice.hpp" />
+    <ClInclude Include="C:\Users\nightst4r\Desktop\SFML-master\include\SFML\Audio\Export.hpp" />
+    <ClInclude Include="C:\Users\nightst4r\Desktop\SFML-master\include\SFML\Audio\Listener.hpp" />
+    <ClInclude Include="C:\Users\nightst4r\Desktop\SFML-master\include\SFML\Audio\Music.hpp" />
+    <ClInclude Include="C:\Users\nightst4r\Desktop\SFML-master\include\SFML\Audio\Sound.hpp" />
+    <ClInclude Include="C:\Users\nightst4r\Desktop\SFML-master\include\SFML\Audio\SoundBuffer.hpp" />
+    <ClInclude Include="C:\Users\nightst4r\Desktop\SFML-master\include\SFML\Audio\SoundBufferRecorder.hpp" />
+    <ClInclude Include="C:\Users\nightst4r\Desktop\SFML-master\src\SFML\Audio\SoundFile.hpp" />
+    <ClInclude Include="C:\Users\nightst4r\Desktop\SFML-master\include\SFML\Audio\SoundRecorder.hpp" />
+    <ClInclude Include="C:\Users\nightst4r\Desktop\SFML-master\include\SFML\Audio\SoundSource.hpp" />
+    <ClInclude Include="C:\Users\nightst4r\Desktop\SFML-master\include\SFML\Audio\SoundStream.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\..\..\..\src\SFML\Audio\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

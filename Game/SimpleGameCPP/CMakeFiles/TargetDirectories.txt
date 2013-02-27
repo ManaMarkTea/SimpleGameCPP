@@ -1,0 +1,8 @@
+C:/Users/nightst4r/Desktop/SFML-master/project/CMakeFiles/ALL_BUILD.dir
+C:/Users/nightst4r/Desktop/SFML-master/project/CMakeFiles/ZERO_CHECK.dir
+C:/Users/nightst4r/Desktop/SFML-master/project/src/SFML/Audio/CMakeFiles/sfml-audio.dir
+C:/Users/nightst4r/Desktop/SFML-master/project/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
+C:/Users/nightst4r/Desktop/SFML-master/project/src/SFML/Main/CMakeFiles/sfml-main.dir
+C:/Users/nightst4r/Desktop/SFML-master/project/src/SFML/Network/CMakeFiles/sfml-network.dir
+C:/Users/nightst4r/Desktop/SFML-master/project/src/SFML/System/CMakeFiles/sfml-system.dir
+C:/Users/nightst4r/Desktop/SFML-master/project/src/SFML/Window/CMakeFiles/sfml-window.dir
